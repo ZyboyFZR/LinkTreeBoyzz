@@ -53,7 +53,7 @@
     
     <div class="link" id="whatsapp">
       <div class="border">
-        <img src="Logo/WhatsApp.png" />
+        <img src="Logo/whatsapp.png" />
       <a href="https://wa.me/085117501244?text=Halo Boyzz">WHATSAPP</a>
       </div>
       
